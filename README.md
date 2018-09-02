@@ -14,7 +14,7 @@ Running it
 1. Clone the repo 
 
 ```sh
-$ git clone https://github.com/aalind0/Movie_Reviews-Sentiment_Analysis
+$ git clone https://github.com/banurag/Sentiment-analysis
 $ cd Movie_Reviews-Sentiment_Analysis
 ```
 
